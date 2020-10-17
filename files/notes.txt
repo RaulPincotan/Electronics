@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Some description about the project. It is a mini oop project and it is working with a map where the keys are the product's description.
+=======
+Some description about the project.
+It is a mini oop project and it is working with a map where the keys are the product's description
+>>>>>>> 0555d9f554042649d02ce89e3e5bf227bd0999ac
