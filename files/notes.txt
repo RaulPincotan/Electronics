@@ -1,0 +1,1 @@
+Some description about the project. It is a mini oop project and it is working with a map where the keys are the product's description
